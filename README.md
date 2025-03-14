@@ -15,4 +15,16 @@ Escrever toda a base em SQL pela abordagem do database first, para fugir do padr
 * Dominios Ricos
 * **Jenkins (a definir)**
 * **GIT HUB ACTIONS (a definir)**
-* 
+
+## Todo features
+
+
+* feature/estrutura-Inicial (13/03/2025 -)
+
+- [ ] Construir entidades com base na modelagem
+
+* feature/persistence ()
+- [ ] Criar Conexão com o Dapper
+
+* feature/usecase ()
+- [ ] Criar casos de uso principal
